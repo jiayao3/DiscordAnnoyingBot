@@ -1,2 +1,5 @@
 # DiscordMultiFunctionBot
-A very annoying discord bot
+music player
+greeting
+meme generator
+message reply
